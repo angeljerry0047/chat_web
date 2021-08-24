@@ -1,67 +1,68 @@
-{ "dealerInfo": [
-  {
-    "dealerName":"Rotolo Motors",
-    "dealerGreeterName":"Matt Six",
-    "dealerGreeterPosition":"General Sales Manager",
-    "dealerBackgroundImage":"RotoloBackground", 
-    "dealerGreeterImage":"storeGm",
-    "dealerHours":[
-      { 
-        "day":"Monday",
-        "dayShort":"Mon",
-        "status":"Open",
-        "openHours":"9:00 AM",
-        "closingHours":"8:00 PM",
-        "eveningHours":true
-      },
-      { 
-        "day":"Tuesday",
-        "dayShort":"Tue",
-        "status":"Open",
-        "openHours":"9:00 AM",
-        "closingHours":"8:00 PM",
-        "eveningHours":true
-      },
-      { 
-        "day":"Wednesday",
-        "dayShort":"Wed",
-        "status":"Open",
-        "openHours":"9:00 AM",
-        "closingHours":"5:00 PM"
-      },
-      { 
-        "day":"Thursday",
-        "dayShort":"Thu",
-        "status":"Open",
-        "openHours":"9:00 AM",
-        "closingHours":"8:00 PM",
-        "eveningHours":true
-      },
-      { 
-        "day":"Friday",
-        "dayShort":"Fri",
-        "status":"Open",
-        "openHours":"9:00 AM",
-        "closingHours":"5:00 PM",
-        "eveningHours":false
-      },
-      { 
-        "day":"Saturday",
-        "dayShort":"Sat",
-        "status":"Open",
-        "openHours":"9:00 AM",
-        "closingHours":"3:00 PM",
-        "eveningHours":false
-      },
-      { 
-        "day":"Sunday",
-        "dayShort":"Sun",
-        "status":"Closed",
-        "openHours":"Closed",
-        "closingHours":"Closed",
-        "eveningHours":false
-      } 
-    ]
-  }
+{
+  "dealerInfo": [
+    {
+      "dealerName": "Rotolo Motors",
+      "dealerGreeterName": "Matt Six",
+      "dealerGreeterPosition": "General Sales Manager",
+      "dealerBackgroundImage": "RotoloBackground",
+      "dealerGreeterImage": "storeGm",
+      "dealerHours": [
+        {
+          "day": "Monday",
+          "dayShort": "Mon",
+          "status": "Open",
+          "openHours": "9:00 AM",
+          "closingHours": "8:00 PM",
+          "eveningHours": true
+        },
+        {
+          "day": "Tuesday",
+          "dayShort": "Tue",
+          "status": "Open",
+          "openHours": "9:00 AM",
+          "closingHours": "8:00 PM",
+          "eveningHours": true
+        },
+        {
+          "day": "Wednesday",
+          "dayShort": "Wed",
+          "status": "Open",
+          "openHours": "9:00 AM",
+          "closingHours": "5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "dayShort": "Thu",
+          "status": "Open",
+          "openHours": "9:00 AM",
+          "closingHours": "8:00 PM",
+          "eveningHours": true
+        },
+        {
+          "day": "Friday",
+          "dayShort": "Fri",
+          "status": "Open",
+          "openHours": "9:00 AM",
+          "closingHours": "5:00 PM",
+          "eveningHours": false
+        },
+        {
+          "day": "Saturday",
+          "dayShort": "Sat",
+          "status": "Open",
+          "openHours": "9:00 AM",
+          "closingHours": "3:00 PM",
+          "eveningHours": false
+        },
+        {
+          "day": "Sunday",
+          "dayShort": "Sun",
+          "status": "Closed",
+          "openHours": "Closed",
+          "closingHours": "Closed",
+          "eveningHours": false
+        }
+      ]
+    }
   ]
 }
