@@ -12,7 +12,6 @@ import { OTSession, OTPublisher, OTStreams, OTSubscriber } from 'opentok-react';
 import WebSessionCounter from 'web-session-counter';
 import ReactGA from 'react-ga';
 
-
 library.add(faAngleRight, faCaretDown, faCaretUp, faTimes, faUserCircle, faLaughBeam, faPaperPlane, faAngleLeft, faCalendarAlt, faCar, faComment, faWrench, faCarCrash, faGasPump, faChargingStation, faArrowLeft);
 
 const ChatContext = React.createContext();
