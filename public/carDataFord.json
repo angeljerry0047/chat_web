@@ -1,0 +1,103 @@
+{"carData":
+  [{
+   "YEAR": 2020,
+   "MAKE": "FORD",
+   "MODEL": "Mustang GT Premium",
+   "NOW": "$48,660",
+   "VIN": "1FA6P8CF3L5123888",
+   "STOCK": "20L01170",
+   "COLOR": "Shadow Black",
+   "IMAGE": "mustangOne.jpeg"
+ },
+ {
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Mustang GT Premium",
+  "NOW": "$50,289",
+  "VIN": "1FATP8FF1L5118025",
+  "STOCK": "20F01200",
+  "COLOR": "Oxford White",
+  "IMAGE": "mustangOne.jpeg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Mustang GT Coupe",
+  "NOW": "$42,017",
+  "VIN": "1FA6P8CF8L5123921",
+  "STOCK": "20F01530",
+  "COLOR": "Oxford White",
+  "IMAGE": "mustangOne.jpeg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Mustang GT Premium Coupe",
+  "NOW": "$47,123",
+  "VIN": "1FA6P8CFXL5123922",
+  "STOCK": "20F01540",
+  "COLOR": "Rapid Red Metallic Tinted Clearcoat",
+  "IMAGE": "mustangOne.jpeg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Mustang Ecoboost",
+  "NOW": "$31,991",
+  "VIN": "1FA6P8THXL5129852",
+  "STOCK": "20F02020",
+  "COLOR": "Magnetic",
+  "IMAGE": "mustangOne.jpeg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Fusion",
+  "NOW": "$21,587",
+  "VIN": "3FA6P0G71LR106590",
+  "STOCK": "20F00190",
+  "COLOR": "Black Metallic",
+  "IMAGE": "mustangOne.jpeg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Fusion SE",
+  "NOW": "$23,235",
+  "VIN": "3FA6P0HD8LR106591",
+  "STOCK": "20F00230",
+  "COLOR": "Silver Metallic",
+  "IMAGE": "mustangOne.jpeg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Fusion SE Sedan",
+  "NOW": "$24,635",
+  "VIN": "3FA6P0HD1LR106593",
+  "STOCK": "20F00260",
+  "COLOR": "Rapid Red Metallic Tinted Clearcoat",
+  "IMAGE": "mustangOne.jpeg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Fusion SE Sedan",
+  "NOW": "$27,294",
+  "VIN": "3FA6P0T9XLR106594",
+  "STOCK": "20F00240",
+  "COLOR": "White Metallic",
+  "IMAGE": "mustangOne.jpeg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "FORD",
+  "MODEL": "Fusion SE",
+  "NOW": "$22,619",
+  "VIN": "3FA6P0HDXLR106592",
+  "STOCK": "20F00250",
+  "COLOR": "Oxford White",
+  "IMAGE": "mustangOne.jpeg"
+}
+]
+}

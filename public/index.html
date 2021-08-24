@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Web site created using create-react-app" />
+    <link rel="apple-touch-icon" href="logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>React App</title>
+  </head>
+
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--Creating and initialize Upscope-->
+    <script>
+      (function(w, u, d){var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};var l = function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://code.upscope.io/LzGN8y5aeR.js';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(typeof u!=="function"){w.Upscope=i;l();}})(window, window.Upscope, document);
+      Upscope('init', {requireAuthorizationForSession: false});
+      Upscope('saveHistory');
+    </script>
+    <script>
+      Upscope('updateConnection', {
+        uniqueId: undefined,
+      });
+    </script>
+    <!--Google analytics to evaluate the user visiting time-->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      setTimeout(() => {
+        let dimensionValue = JSON.parse(localStorage.getItem('__upscope:shortId'));
+        console.log(dimensionValue);
+        ga('create', 'UA-190251485-1', 'auto');
+        ga('set', 'metric2', 100);
+        ga('set', 'dimension5', dimensionValue);
+        ga('send', 'pageview');
+
+        ga('send', 'pageview');
+      }, 6000)
+    </script>
+  </body>
+</html>

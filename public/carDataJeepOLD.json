@@ -1,0 +1,73 @@
+{"carData":
+  [{
+   "YEAR": 2020,
+   "MAKE": "JEEP",
+   "MODEL": "WRANGLER SPORT S 4X4",
+   "NOW": "$27,998",
+   "VIN": "1C4GJXAN8LW228926",
+   "STOCK": "0257",
+   "COLOR": "Black Clear-Coat Exterior Paint",
+   "IMAGE": "sampleJeep.jpg"
+ }, 
+ {
+  "YEAR": 2020,
+  "MAKE": "JEEP",
+  "MODEL": "WRANGLER SPORT S 4X4",
+  "NOW": "$37,297",
+  "VIN": "1C4GJXAG6LW193739",
+  "STOCK": "0137",
+  "COLOR": "Ocean Blue Metallic Clear-Coat Exterior Paint",
+  "IMAGE": "sampleJeep.jpg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "JEEP",
+  "MODEL": "WRANGLER UNLIMITED SPORT S 4X4",
+  "NOW": "$41,658",
+  "VIN": "1C4HJXDG4LW122510",
+  "STOCK": "0047",
+  "COLOR": "Sting-Gray Clear-Coat Exterior Paint",
+  "IMAGE": "sampleJeep.jpg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "JEEP",
+  "MODEL": "WRANGLER UNLIMITED RUBICON 4X4",
+  "NOW": "$52,982",
+  "VIN": "1C4HJXFG3LW107221",
+  "STOCK": "0467",
+  "COLOR": "Ocean Blue Metallic Clear-Coat Exterior Paint",
+  "IMAGE": "sampleJeep.jpg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "JEEP",
+  "MODEL": "COMPASS LATITUDE 4X4",
+  "NOW": "$24,729",
+  "VIN": "3C4NJDBB6LT148962",
+  "STOCK": "0168",
+  "COLOR": "Granite Crystal Metallic Clear-Coat Exterior Paint",
+  "IMAGE": "sampleJeep.jpg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "JEEP",
+  "MODEL": "COMPASS LATITUDE 4X4",
+  "NOW": "$25,457",
+  "VIN": "3C4NJDBB6LT161307",
+  "STOCK": "0209",
+  "COLOR": "White Clear-Coat Exterior Paint",
+  "IMAGE": "sampleJeep.jpg"
+},
+{
+  "YEAR": 2020,
+  "MAKE": "JEEP",
+  "MODEL": "COMPASS LATITUDE 4X4",
+  "NOW": "$25,634",
+  "VIN": "3C4NJDBB1LT148948",
+  "STOCK": "0164",
+  "COLOR": "Granite Crystal Metallic Clear-Coat Exterior Paint",
+  "IMAGE": "sampleJeep.jpg"
+}
+]
+}

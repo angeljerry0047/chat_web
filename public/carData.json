@@ -1,0 +1,5673 @@
+{"carData":
+  [{
+   "YEAR": 2016,
+   "MAKE": "CHRYSLER",
+   "MODEL": "300C",
+   "WAS": "$24,652",
+   "NOW": "$22,750",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810114"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "BUICK",
+   "MODEL": "LACROSSE",
+   "WAS": "$21,420",
+   "NOW": "$20,963",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810128"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "SENTRA SR",
+   "WAS": "$16,004",
+   "NOW": "$15,575",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810152"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHRYSLER",
+   "MODEL": "200 LIMITED",
+   "WAS": "$14,995",
+   "NOW": "$13,701",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810148"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "ACURA",
+   "MODEL": "TLX  3.5 V6",
+   "WAS": "$26,731",
+   "NOW": "$25,495",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF170521A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "DODGE",
+   "MODEL": "DART LIMITED",
+   "WAS": "$16,500",
+   "NOW": "$14,746",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810150"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "CHEVROLET",
+   "MODEL": "CRUZE LT RS",
+   "WAS": "$10,737",
+   "NOW": "$10,450",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ170432A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "FORD",
+   "MODEL": "TAURUS SEL",
+   "WAS": "$11,339",
+   "NOW": "$12,900",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AC170028B"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHRYSLER",
+   "MODEL": "TOWN COUNTRY",
+   "WAS": "$20,678",
+   "NOW": "$20,033",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810153"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHRYSLER",
+   "MODEL": "200",
+   "WAS": "$13,111",
+   "NOW": "$12,519",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810163"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHEVROLET",
+   "MODEL": "TRAVERSE LT",
+   "WAS": "$26,000",
+   "NOW": "$25,500",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF170184B"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHEVROLET",
+   "MODEL": "CRUZE LS",
+   "WAS": "$11,200",
+   "NOW": "$10,552",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ170493A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "JEEP ",
+   "MODEL": "RENEGADE TRAILHAWK",
+   "WAS": "$22,161",
+   "NOW": "$19,509",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810149"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "DODGE",
+   "MODEL": "DURANGO",
+   "WAS": "$29,900",
+   "NOW": "$28,159",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810146"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "chrysler",
+   "MODEL": "pacifica",
+   "WAS": "$29,900",
+   "NOW": "$26,563",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "b810170"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "GMC",
+   "MODEL": "ACADIA DENALI",
+   "WAS": "$33,909",
+   "NOW": "$32,979",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810138"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "GMC",
+   "MODEL": "TERRAIN AWD",
+   "WAS": "$18,533",
+   "NOW": "$17,547",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810120"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "JEEP",
+   "MODEL": "CHEROKEE LATITUDE",
+   "WAS": "$17,656",
+   "NOW": "$16,640",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810106"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "JEEP",
+   "MODEL": "WRANGLER RUBICON",
+   "WAS": "$38,797",
+   "NOW": "$36,283",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ170169A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "JEEP",
+   "MODEL": "GRAND CHEROKEE",
+   "WAS": "$28,799",
+   "NOW": "$28,284",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ170448A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "JEEP",
+   "MODEL": "WRANGLER SPORT",
+   "WAS": "$28,595",
+   "NOW": "$26,364",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ160107A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "JEEP",
+   "MODEL": "WRANGFLER UNLIM",
+   "WAS": "$27,720",
+   "NOW": "$26,240",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF160581A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "DODGE",
+   "MODEL": "DART SXT",
+   "WAS": "$15,345",
+   "NOW": "$14,500",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810161"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD",
+   "MODEL": "F150 CREW CAB",
+   "WAS": "$25,114",
+   "NOW": "$23,523",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ170310A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "JEEP",
+   "MODEL": "GRAND CHEROKEE",
+   "WAS": "$27,342",
+   "NOW": "$26,663",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810139"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "JEEP",
+   "MODEL": "WRANGLER SAHARA",
+   "WAS": "$30,548",
+   "NOW": "$29,383",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810142"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "CHEVROLET",
+   "MODEL": "EQUINOX",
+   "WAS": "$18,786",
+   "NOW": "$17,886",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810129"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "FORD",
+   "MODEL": "EXPLORER XLT 4X4",
+   "WAS": "$29,584",
+   "NOW": "$27,998",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810166"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "CHEVROLET",
+   "MODEL": "EQUINOX LS FWD",
+   "WAS": "$14,377",
+   "NOW": "$12,613",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF170578A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "dodge",
+   "MODEL": "CARAVAN",
+   "WAS": "$18,450",
+   "NOW": "$17,354",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810169"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHRYSLER",
+   "MODEL": "TOWN COUNTRY",
+   "WAS": "$20,998",
+   "NOW": "$19,654",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810172"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "FORD",
+   "MODEL": "F150 KING RANGE",
+   "WAS": "$29,740",
+   "NOW": "$29,262",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810126"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "toyota",
+   "MODEL": "SIENNA 7PASS XLE",
+   "WAS": "$25,900",
+   "NOW": "$23,225",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF160534A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "DODGE",
+   "MODEL": "RAM 1500 EXPRESS",
+   "WAS": "$27,414",
+   "NOW": "$25,813",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810118"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "DODGE",
+   "MODEL": "POWER WAGON",
+   "WAS": "$37,439",
+   "NOW": "$36,516",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF170480A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD",
+   "MODEL": "F150 FX4",
+   "WAS": "$30,168",
+   "NOW": "$29,519",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810158"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "CHRYSLER",
+   "MODEL": "CROSSFIRE LIMITED",
+   "WAS": "$16,900",
+   "NOW": "$14,500",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AD170209A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "HYUNDAI",
+   "MODEL": "TUCSON GL",
+   "WAS": "$13,250",
+   "NOW": "$11,919",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AC170011A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "JEEP",
+   "MODEL": "WRANGLER SPORT",
+   "WAS": "$22,529",
+   "NOW": "$20,773",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ170490A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "DODGE",
+   "MODEL": "RAM 1500 CREW LAR",
+   "WAS": "$41,091",
+   "NOW": "$39,420",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AD170237A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHRYSLER",
+   "MODEL": "200 LIMITED",
+   "WAS": "$14,236",
+   "NOW": "$12,998",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810164"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "FORD",
+   "MODEL": "FOCUS SE",
+   "WAS": "$12,575",
+   "NOW": "$11,489",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B810160"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "DODGE RAM BIG HORN CREW 4X4",
+   "MODEL": "",
+   "WAS": "$30,360",
+   "NOW": "$28,381",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AD170042A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "FORD ",
+   "MODEL": "F50 CREWCAB XLT 4X4",
+   "WAS": "$42,300",
+   "NOW": "$33,993",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF170633A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "DODGE",
+   "MODEL": "RAM CREW",
+   "WAS": "$29,543",
+   "NOW": "$28,863",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AD170043A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "FORD",
+   "MODEL": "ESCAPE SE AWD",
+   "WAS": "$18,442",
+   "NOW": "$17,631",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF170538A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "HONDA",
+   "MODEL": "CROSSTOUR EX-L",
+   "WAS": "$12,900",
+   "NOW": "$11,367",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ170225A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "CHEVROLET",
+   "MODEL": "HHR",
+   "WAS": "$6,277",
+   "NOW": "$5,930",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B820042"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "PONTIAC",
+   "MODEL": "6G",
+   "WAS": "$6,850",
+   "NOW": "$5,950",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AD170067D"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "CHEVROLET",
+   "MODEL": "IMPALA LT",
+   "WAS": "$7,650",
+   "NOW": "$5,950",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF170483B"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "PONTIAC G5",
+   "MODEL": "G5",
+   "WAS": "$8,500",
+   "NOW": "$7,950",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AC170023A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "FORD",
+   "MODEL": "TRANSIT VAN",
+   "WAS": "$17,850",
+   "NOW": "$17,500",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B820037"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "FORD",
+   "MODEL": "TRANSIT VAN",
+   "WAS": "$17,850",
+   "NOW": "$17,500",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B820038"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "GMC ",
+   "MODEL": "ACADIA DENALI",
+   "WAS": "$15,078",
+   "NOW": "$14,497",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "K170017A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "CHEVROLET",
+   "MODEL": "TRAVERSE AWD",
+   "WAS": "$12,546",
+   "NOW": "$11,586",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B820035"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "HONDA",
+   "MODEL": "PILOT TOURING",
+   "WAS": "$14,923",
+   "NOW": "$14,051",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "NB170300A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "CHEVROLET",
+   "MODEL": "TRAVERSE LT AWD",
+   "WAS": "$12,114",
+   "NOW": "$11,500",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "B820039"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "MAZDA",
+   "MODEL": "CX9",
+   "WAS": "$11,999",
+   "NOW": "$10,988",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AC170049A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SANTA FE",
+   "WAS": "$8,463",
+   "NOW": "$7,614",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AJ170369C"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "CHEVROLET",
+   "MODEL": "COLORADO CREW CAB 4X4",
+   "WAS": "$12,040",
+   "NOW": "$11,339",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AF160680A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "DODGE",
+   "MODEL": "GR CARAVAN CREW",
+   "WAS": "$11,456",
+   "NOW": "$10,761",
+   "LOCATION": "ALLEGHENY VALLEY",
+   "STOCK": "AC170001A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "AUDI",
+   "MODEL": "Q7 3.0T",
+   "WAS": "$71,670",
+   "NOW": "$57,990",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770012"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "AUDI",
+   "MODEL": "Q7 3.0T",
+   "WAS": "$68,695",
+   "NOW": "$55,850",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AW18004A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "NISSAN",
+   "MODEL": "VERSA SL",
+   "WAS": "$13,900",
+   "NOW": "$13,200",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770008"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "ACURA",
+   "MODEL": "RDX AWD",
+   "WAS": "$37,999",
+   "NOW": "$36,500",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AP1800052A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "Q5 2.0T",
+   "WAS": "$40,452",
+   "NOW": "$37,779",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B77017"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "S3 2.0T",
+   "WAS": "$39,995",
+   "NOW": "$34,550",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AP170381A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "GMC",
+   "MODEL": "YUKON DEN - XL",
+   "WAS": "$65,000",
+   "NOW": "$63,000",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AW17018A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "AUDI",
+   "MODEL": "A4 2.0T",
+   "WAS": "$29,500",
+   "NOW": "$28,225",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770016"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "AUDI",
+   "MODEL": "Q3 PREM PLUS",
+   "WAS": "$30,421",
+   "NOW": "$26,916",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770002"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "AUDI",
+   "MODEL": "Q5 2.0T",
+   "WAS": "$34,570",
+   "NOW": "$33,898",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AW18042A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA",
+   "WAS": "$15,315",
+   "NOW": "$14,712",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B100126"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "QUEST S",
+   "WAS": "$19,500",
+   "NOW": "$18,305",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B810077"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VW",
+   "MODEL": "JETTA",
+   "WAS": "$12,500",
+   "NOW": "$12,000",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770003"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VW",
+   "MODEL": "PASSAT",
+   "WAS": "$14,500",
+   "NOW": "$12,200",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770006"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "AUDI",
+   "MODEL": "S5 3.0T",
+   "WAS": "$39,987",
+   "NOW": "$35,492",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B870006"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "FORD",
+   "MODEL": "FOCUS TITANIUM",
+   "WAS": "$14,850",
+   "NOW": "$13,500",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "VW17293A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "GMC",
+   "MODEL": "SIERRA ALL TERRAIN",
+   "WAS": "$31,500",
+   "NOW": "$31,000",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770015A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "MERCEDES BENZ",
+   "MODEL": "GL450 4MATIC",
+   "WAS": "$49,995",
+   "NOW": "$45,000",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AW18036A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SELECT",
+   "WAS": "$15,986",
+   "NOW": "$15,000",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770011"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "SENTRA SV",
+   "WAS": "$13,115",
+   "NOW": "$12,989",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770010"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "AUDI",
+   "MODEL": "A6 2.0T",
+   "WAS": "$21,082",
+   "NOW": "$16,587",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AW18023A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "CHEVROLET",
+   "MODEL": "TAHOE LTZ",
+   "WAS": "$35,481",
+   "NOW": "$33,900",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AW17015A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "ACURA",
+   "MODEL": "TSX",
+   "WAS": "$19,000",
+   "NOW": "$17,990",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "B770005"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "INFINITI",
+   "MODEL": "EX35",
+   "WAS": "$16,999",
+   "NOW": "$16,500",
+   "LOCATION": "AUDI WASHINGTON",
+   "STOCK": "AW18025A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "AUDI",
+   "MODEL": "A4",
+   "WAS": "$49,995",
+   "NOW": "$41,900",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "AP180092A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "AUDI",
+   "MODEL": "A4",
+   "WAS": "$46,220",
+   "NOW": "$39,230",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "B870064"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "MERCEDES BENZ",
+   "MODEL": "GLA250",
+   "WAS": "$31,500",
+   "NOW": "$30,900",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "AP180015A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "A4",
+   "WAS": "$33,600",
+   "NOW": "$32,280",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "B870065"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "ALLROAD",
+   "WAS": "$42,600",
+   "NOW": "$40,083",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "B870063"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "A6",
+   "WAS": "$45,549",
+   "NOW": "$43,000",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "B870054"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "S3",
+   "WAS": "$38,317",
+   "NOW": "$35,000",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "I17263A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "Q5",
+   "WAS": "$43,550",
+   "NOW": "$40,750",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "AP180040A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "A3",
+   "WAS": "$37,152",
+   "NOW": "$29,000",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "B870046"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "AUDI",
+   "MODEL": "A3",
+   "WAS": "$24,572",
+   "NOW": "$23,000",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "SH170543A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "AUDI",
+   "MODEL": "A4",
+   "WAS": "$17,500",
+   "NOW": "$17,300",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "AP170484A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "AUDI",
+   "MODEL": "Q5",
+   "WAS": "$48,365",
+   "NOW": "$41,300",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "B870069"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "A6",
+   "WAS": "$43,487",
+   "NOW": "$42,202",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "B870070"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "AUDI",
+   "MODEL": "Q7 4.2",
+   "WAS": "$23,671",
+   "NOW": "$23,100",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "AP180118A"
+ },
+ {
+   "YEAR": 2018,
+   "MAKE": "AUDI",
+   "MODEL": "Q5",
+   "WAS": "$46,450",
+   "NOW": "$43,500",
+   "LOCATION": "AUDI-PITTSBURGH",
+   "STOCK": "AP180115A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "TOYOTA",
+   "MODEL": "RAV4",
+   "WAS": "$18,000",
+   "NOW": "$15,500",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "BB17015C"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "SUBARou",
+   "MODEL": "LEGACY",
+   "WAS": "$17,500",
+   "NOW": "$17,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB180013A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "HONDA",
+   "MODEL": "CIVIC",
+   "WAS": "$10,000",
+   "NOW": "$9,700",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB170978B"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "CHRYSLER",
+   "MODEL": "TOWN & COUNTRY",
+   "WAS": "$6,000",
+   "NOW": "$4,990",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890125"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU",
+   "MODEL": "LEGACY",
+   "WAS": "$10,000",
+   "NOW": "$8,993",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890114A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "KIA",
+   "MODEL": "OPTIMA",
+   "WAS": "$9,600",
+   "NOW": "$8,916",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890107A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA S",
+   "WAS": "$9,800",
+   "NOW": "$8,500",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B820031"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "RAM",
+   "MODEL": "1500 PICKUP",
+   "WAS": "$21,500",
+   "NOW": "$20,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B820033"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN ",
+   "MODEL": "FRONTIER SV ",
+   "WAS": "$23,000",
+   "NOW": "$21,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171601A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER XT TOURING",
+   "WAS": "$23,500",
+   "NOW": "$22,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB180086A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "FORD",
+   "MODEL": "EDGE",
+   "WAS": "$10,000",
+   "NOW": "$9,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B810053A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "HONDA",
+   "MODEL": "RIDGELINE",
+   "WAS": "$13,000",
+   "NOW": "$12,500",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890113A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "JEEP",
+   "MODEL": "GRAND CHEROKEE",
+   "WAS": "$27,000",
+   "NOW": "$25,500",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB180102A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU",
+   "MODEL": "LEGACY 3.6R",
+   "WAS": "$32,000",
+   "NOW": "$29,990",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890124"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "CHEVEROLET",
+   "MODEL": "HHR",
+   "WAS": "$5,300",
+   "NOW": "$4,400",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171439B"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "SUBARU",
+   "MODEL": "LEGACY",
+   "WAS": "$12,235",
+   "NOW": "$11,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "AJ170397C"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "CHEVEROLET",
+   "MODEL": "COBALT",
+   "WAS": "$5,000",
+   "NOW": "$3,500",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171610A"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK",
+   "WAS": "$8,500",
+   "NOW": "$7,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "U171002A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD",
+   "MODEL": "FOCUS SE",
+   "WAS": "$8,000",
+   "NOW": "$7,225",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171419B"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY",
+   "WAS": "$14,000",
+   "NOW": "$12,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171129A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK",
+   "WAS": "$15,000",
+   "NOW": "$13,500",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171336A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "CHEVEROLET",
+   "MODEL": "SONIC LT",
+   "WAS": "$11,500",
+   "NOW": "$9,985",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890123"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "BUICK",
+   "MODEL": "ENCORE",
+   "WAS": "$17,000",
+   "NOW": "$16,350",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "BAF17056C"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER",
+   "WAS": "$16,000",
+   "NOW": "$14,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171573B"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONOTA",
+   "WAS": "$11,000",
+   "NOW": "$10,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171590A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "KIA",
+   "MODEL": "SOUL",
+   "WAS": "$10,500",
+   "NOW": "$9,645",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB180061A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "SUBARU",
+   "MODEL": "WRX STI",
+   "WAS": "$15,000",
+   "NOW": "$14,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB180054B"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "TUCSON AWD ",
+   "WAS": "$19,500",
+   "NOW": "$18,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB180048A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "SUBARU",
+   "MODEL": "LEGACY",
+   "WAS": "$20,000",
+   "NOW": "$19,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171608A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU",
+   "MODEL": "LEGACY",
+   "WAS": "$22,800",
+   "NOW": "$22,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171072A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK",
+   "WAS": "$25,000",
+   "NOW": "$24,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171072B"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER",
+   "WAS": "$15,325",
+   "NOW": "$14,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890119"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "RAM",
+   "MODEL": "1500 EXPRESS",
+   "WAS": "$25,800",
+   "NOW": "$25,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890118"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK",
+   "WAS": "$33,000",
+   "NOW": "$32,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "B890120"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "NISSAN",
+   "MODEL": "XTERRA",
+   "WAS": "$17,000",
+   "NOW": "$15,862",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "G170207A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "MAZDA",
+   "MODEL": "3 TOURING",
+   "WAS": "$18,000",
+   "NOW": "$15,750",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171445A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HONDA",
+   "MODEL": "CRV",
+   "WAS": "$19,500",
+   "NOW": "$18,000",
+   "LOCATION": "BUTLER SUBARU",
+   "STOCK": "NB171502A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "MAZDA",
+   "MODEL": "MAZDA3",
+   "WAS": "$16,495",
+   "NOW": "$15,889 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "MZ17112A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "SILVERADO 1500 ",
+   "WAS": "$16,295",
+   "NOW": "$15,265 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "U171740B"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA ALL TERRAI",
+   "WAS": "$42,489",
+   "NOW": "$41,700 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170234A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "FORD ",
+   "MODEL": "F-150 XLT ",
+   "WAS": "$29,458",
+   "NOW": "$27,929 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100334"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "MALIBU ",
+   "WAS": "$19,925",
+   "NOW": "$18,498 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100335"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD ",
+   "MODEL": "FOCUS TITANIUM",
+   "WAS": "$16,458",
+   "NOW": "$15,989 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "U170839B"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "IMPALA ",
+   "WAS": "$14,923",
+   "NOW": "$13,987 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100146"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "IMPALA ",
+   "WAS": "$13,694",
+   "NOW": "$12,229 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B860026A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "MAZDA ",
+   "MODEL": "CX-9",
+   "WAS": "$14,854",
+   "NOW": "$13,752 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100332"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA ALL TERRAI",
+   "WAS": "$27,548",
+   "NOW": "$26,000 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170422A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "BUICK ",
+   "MODEL": "VERANO ",
+   "WAS": "$17,849",
+   "NOW": "$16,783 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100329"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "FORD ",
+   "MODEL": "F-150 XLT ",
+   "WAS": "$31,585",
+   "NOW": "$30,465 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100330"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "SILVERADO 1500 ",
+   "WAS": "$37,984",
+   "NOW": "$36,000 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "AF170325A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "GMC ",
+   "MODEL": "YUKON",
+   "WAS": "$31,545",
+   "NOW": "$30,589 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G160224A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA ALL TERRAI",
+   "WAS": "$24,515",
+   "NOW": "$23,542 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170415A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "MAZDA ",
+   "MODEL": "CX-5 ",
+   "WAS": "$18,957",
+   "NOW": "$17,598 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "NM17385A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "GMC ",
+   "MODEL": "ACADIA",
+   "WAS": "$26,584",
+   "NOW": "$25,289 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170074A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA ",
+   "WAS": "$22,000",
+   "NOW": "$20,534 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "WG170213A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "BME ",
+   "MODEL": "328XI ",
+   "WAS": "$23,189",
+   "NOW": "$21,819 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100316"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "VOLKSWAGEN ",
+   "MODEL": "BEETLE ",
+   "WAS": "$6,998",
+   "NOW": "$6,252 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100320"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "BUICK ",
+   "MODEL": "ENCLAVE ",
+   "WAS": "$27,541",
+   "NOW": "$26,562 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100326"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "FORD ",
+   "MODEL": "ESCAPE ",
+   "WAS": "$21,654",
+   "NOW": "$20,027 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100324"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "DODGE ",
+   "MODEL": "CHARGER ",
+   "WAS": "$23,845",
+   "NOW": "$22,877 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100318"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "FORD ",
+   "MODEL": "FOCUS ",
+   "WAS": "$13,646",
+   "NOW": "$12,576 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100313"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "DODGE ",
+   "MODEL": "DART ",
+   "WAS": "$12,545",
+   "NOW": "$11,306 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100322"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "KIA ",
+   "MODEL": "OPTIMA ",
+   "WAS": "$14,959",
+   "NOW": "$13,086 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100321"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "MAZDA ",
+   "MODEL": "CX-5 ",
+   "WAS": "$18,245",
+   "NOW": "$17,698 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "NM17242A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "GMC ",
+   "MODEL": "YUKON DEN - XL",
+   "WAS": "$53,998",
+   "NOW": "$52,729 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170414A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "CRUZE ",
+   "WAS": "$10,098",
+   "NOW": "$9,095 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "U171553B"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "CRUZE ",
+   "WAS": "$13,489",
+   "NOW": "$12,900 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100311"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "JEEP ",
+   "MODEL": "COMMANDER ",
+   "WAS": "$10,989",
+   "NOW": "$9,600 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B200113A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY ",
+   "WAS": "$12,487",
+   "NOW": "$11,989 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "MZ17159A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN ",
+   "MODEL": "ROGUE ",
+   "WAS": "$22,000",
+   "NOW": "$20,449 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100301"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN ",
+   "MODEL": "ROGUE ",
+   "WAS": "$18,289",
+   "NOW": "$17,165 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100302"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "HONDA ",
+   "MODEL": "CIVIC ",
+   "WAS": "$15,000",
+   "NOW": "$13,839 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "U171224A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "BUICK ",
+   "MODEL": "ENCORE ",
+   "WAS": "$20,485",
+   "NOW": "$19,710 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100307"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN ",
+   "MODEL": "PATHFINDER SL",
+   "WAS": "$25,986",
+   "NOW": "$24,314 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100303"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN ",
+   "MODEL": "ROGUE ",
+   "WAS": "$16,758",
+   "NOW": "$15,697 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100300"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "RAM ",
+   "MODEL": "1500",
+   "WAS": "$29,415",
+   "NOW": "$28,098 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100162"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA ",
+   "WAS": "$35,989",
+   "NOW": "$34,828 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100308"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "GMC ",
+   "MODEL": "TERRAIN AWD",
+   "WAS": "$17,524",
+   "NOW": "$16,495 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100309"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "HONDA ",
+   "MODEL": "ACCORD ",
+   "WAS": "$14,989",
+   "NOW": "$13,433 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100306"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN ",
+   "MODEL": "ALTIMA ",
+   "WAS": "$16,245",
+   "NOW": "$15,883 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100297"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN ",
+   "MODEL": "MAXIMA ",
+   "WAS": "$19,458",
+   "NOW": "$18,884 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100186"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "NISSAN ",
+   "MODEL": "ALTIMA ",
+   "WAS": "$16,454",
+   "NOW": "$15,561 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100298"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "MALIBU ",
+   "WAS": "$15,489",
+   "NOW": "$14,856 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100310"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN ",
+   "MODEL": "SENTRA ",
+   "WAS": "$14,298",
+   "NOW": "$13,283 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100295"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN ",
+   "MODEL": "ALTIMA ",
+   "WAS": "$15,988",
+   "NOW": "$15,348 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100296"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN ",
+   "MODEL": "SENTRA ",
+   "WAS": "$15,247",
+   "NOW": "$14,487 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100299"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "SUBARU ",
+   "MODEL": "WRX ",
+   "WAS": "$22,354",
+   "NOW": "$21,538 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100293"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN ",
+   "MODEL": "ALTIMA ",
+   "WAS": "$20,959",
+   "NOW": "$19,982 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100207"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA ",
+   "WAS": "$20,541",
+   "NOW": "$19,897 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "WG170331A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "GMC ",
+   "MODEL": "TERRAIN AWD",
+   "WAS": "$26,853",
+   "NOW": "$25,489 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170353A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CADILLAC ",
+   "MODEL": "CT6 ",
+   "WAS": "$49,285",
+   "NOW": "$48,000 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100281A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "CADILLAC ",
+   "MODEL": "CTS ",
+   "WAS": "$25,984",
+   "NOW": "$24,173 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170335B"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "TOYOTA ",
+   "MODEL": "SEQUOIA ",
+   "WAS": "$49,000",
+   "NOW": "$48,198 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "WG170414A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "BUICK ",
+   "MODEL": "REGAL ",
+   "WAS": "$16,754",
+   "NOW": "$15,989 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100290"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "CRUZE ",
+   "WAS": "$14,297",
+   "NOW": "$13,979 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100292"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "NISSAN ",
+   "MODEL": "FRONTIER ",
+   "WAS": "$13,485",
+   "NOW": "$12,189 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "U171721B"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "SONIC ",
+   "WAS": "$12,098",
+   "NOW": "$11,352 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100286"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA 3500 ",
+   "WAS": "$37,849",
+   "NOW": "$36,488 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170292A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN ",
+   "MODEL": "ALTIMA ",
+   "WAS": "$14,293",
+   "NOW": "$13,735 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100287"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "RAM ",
+   "MODEL": "1500",
+   "WAS": "$28,465",
+   "NOW": "$27,922 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100289"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "BUICK ",
+   "MODEL": "ENCORE ",
+   "WAS": "$24,854",
+   "NOW": "$23,237 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100288"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "MALIBU ",
+   "WAS": "$20,248",
+   "NOW": "$19,997 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100285"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "HYUNDAI ",
+   "MODEL": "ELANTRA ",
+   "WAS": "$6,584",
+   "NOW": "$5,620 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "H170470A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "HYUNDAI ",
+   "MODEL": "ELANTRA ",
+   "WAS": "$6,124",
+   "NOW": "$5,595 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "H170449A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "FORD ",
+   "MODEL": "FUSION SE",
+   "WAS": "$16,000",
+   "NOW": "$15,089 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100178"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA ",
+   "WAS": "$33,451",
+   "NOW": "$32,600 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170399A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "VOLKSWAGEN ",
+   "MODEL": "TIGUAN ",
+   "WAS": "$12,989",
+   "NOW": "$11,462 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "K170236A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "CADILLAC ",
+   "MODEL": "CTS ",
+   "WAS": "$17,541",
+   "NOW": "$16,115 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170286C"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHRYLSER ",
+   "MODEL": "200",
+   "WAS": "$14,000",
+   "NOW": "$13,264 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100280"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD ",
+   "MODEL": "EDGE LIMITED",
+   "WAS": "$17,562",
+   "NOW": "$16,685 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "MZ16765A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHRYSLER ",
+   "MODEL": "200",
+   "WAS": "$14,098",
+   "NOW": "$13,059 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100276"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "ACURA ",
+   "MODEL": "TL SH AWD ",
+   "WAS": "$16,241",
+   "NOW": "$15,059 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100272"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "FORD ",
+   "MODEL": "FOCUS ",
+   "WAS": "$17,825",
+   "NOW": "$16,980 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "K160253A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "GMC ",
+   "MODEL": "TERRAIN AWD",
+   "WAS": "$14,251",
+   "NOW": "$13,256 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "H171095A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "GMC ",
+   "MODEL": "ACADIA DENALI",
+   "WAS": "$26,484",
+   "NOW": "$25,000 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "C170173C"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHRYSLER ",
+   "MODEL": "200",
+   "WAS": "$14,652",
+   "NOW": "$13,604 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100214"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "CHRYSLER ",
+   "MODEL": "200",
+   "WAS": "$11,249",
+   "NOW": "$10,000 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100273"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "KIA ",
+   "MODEL": "SPORTAGE ",
+   "WAS": "$9,254",
+   "NOW": "$8,000 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "MZ17125A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN ",
+   "MODEL": "370Z ",
+   "WAS": "$26,289",
+   "NOW": "$25,589 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100270"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER ",
+   "WAS": "$21,541",
+   "NOW": "$20,263 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100271"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD ",
+   "MODEL": "ESCAPE ",
+   "WAS": "$14,989",
+   "NOW": "$14,100 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "MZ17091A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "FORD ",
+   "MODEL": "TAURUS ",
+   "WAS": "$21,000",
+   "NOW": "$19,098 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B810039"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN ",
+   "MODEL": "ALTIMA ",
+   "WAS": "$20,878",
+   "NOW": "$19,275 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100233"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "LINCOLN ",
+   "MODEL": "MKC ",
+   "WAS": "$28,293",
+   "NOW": "$27,177 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "MZ17106A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN ",
+   "MODEL": "JUKE ",
+   "WAS": "$19,545",
+   "NOW": "$18,338 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100230"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "GMC ",
+   "MODEL": "SIERRA ",
+   "WAS": "$42,000",
+   "NOW": "$40,483 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "G170282A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "TRAVERSE ",
+   "WAS": "$25,849",
+   "NOW": "$24,989 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100255"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VOLKSWAGEN ",
+   "MODEL": "JETTA S",
+   "WAS": "$13,845",
+   "NOW": "$12,795 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100239"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "FORD ",
+   "MODEL": "FOCUS ",
+   "WAS": "$13,584",
+   "NOW": "$12,518 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100247"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "JEEP ",
+   "MODEL": "RENEGADE ",
+   "WAS": "$20,898",
+   "NOW": "$19,255 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "K170202A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN ",
+   "MODEL": "ROGUE ",
+   "WAS": "$17,542",
+   "NOW": "$16,528 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100252"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "BUICK ",
+   "MODEL": "VERANO ",
+   "WAS": "$14,981",
+   "NOW": "$13,882 ",
+   "LOCATION": "MONROEVILLE C1",
+   "STOCK": "B100245"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "Hyundai",
+   "MODEL": "Santa Fe",
+   "WAS": "$12,000",
+   "NOW": "$11,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H171274A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "Hyundai",
+   "MODEL": "Tucson",
+   "WAS": "$12,000",
+   "NOW": "$11,500",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "U180026A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$10,987",
+   "NOW": "$10,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H171082A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "Hyundai",
+   "MODEL": "Sonata",
+   "WAS": "$12,000",
+   "NOW": "$11,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H170254A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "Hyundai",
+   "MODEL": "Santa Fe",
+   "WAS": "$17,500",
+   "NOW": "$17,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "SH170631A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "Hyundai",
+   "MODEL": "Sonata",
+   "WAS": "$11,500",
+   "NOW": "$11,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H171127A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "Chrysler",
+   "MODEL": "300",
+   "WAS": "$17,000",
+   "NOW": "$16,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "SH170553A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$10,000",
+   "NOW": "$9,500",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H171230A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$13,107",
+   "NOW": "$12,200",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H171194A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "Hyundai",
+   "MODEL": "Sonata",
+   "WAS": "$14,900",
+   "NOW": "$14,479",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H171254A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "Hyundai",
+   "MODEL": "Veloster",
+   "WAS": "$11,600",
+   "NOW": "$11,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H170333A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "Hyundai",
+   "MODEL": "Veloster",
+   "WAS": "$12,870",
+   "NOW": "$12,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "SH170595A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Hyundai",
+   "MODEL": "Accent",
+   "WAS": "$11,500",
+   "NOW": "$11,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170099"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$13,000",
+   "NOW": "$12,659",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170100"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra GT",
+   "WAS": "$15,454",
+   "NOW": "$15,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170103"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra GT",
+   "WAS": "$14,600",
+   "NOW": "$14,313",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170097"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$14,780",
+   "NOW": "$14,500",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170096"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$13,300",
+   "NOW": "$12,900",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170102"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$13,000",
+   "NOW": "$12,659",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170104"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$12,790",
+   "NOW": "$12,500",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170101"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Elantra",
+   "WAS": "$15,400",
+   "NOW": "$15,204",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170098"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Sonata",
+   "WAS": "$15,000",
+   "NOW": "$14,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170072"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Sonata",
+   "WAS": "$22,669",
+   "NOW": "$22,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H171226A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Tucson",
+   "WAS": "$22,000",
+   "NOW": "$20,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "B170083"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Hyundai",
+   "MODEL": "Tucson",
+   "WAS": "$19,000",
+   "NOW": "$17,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "MZ17136A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Kia",
+   "MODEL": "Sorento",
+   "WAS": "$20,500",
+   "NOW": "$20,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "SH170631B"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Volkswagen",
+   "MODEL": "Gulf",
+   "WAS": "$21,000",
+   "NOW": "$20,000",
+   "LOCATION": "MONROEVILLE HYUNDAI",
+   "STOCK": "H170307A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "CADILLAC ",
+   "MODEL": "CTS ",
+   "WAS": "$14,848",
+   "NOW": "$13,859 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "B130034A"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "BUICK ",
+   "MODEL": "LUCERNE",
+   "WAS": "$9,245",
+   "NOW": "$8,000 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "K170266A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "COBALT ",
+   "WAS": "$5,945",
+   "NOW": "$4,621 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "B170078A"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "SILVERADO ",
+   "WAS": "$11,954",
+   "NOW": "$10,713 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "B200099A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "CHEVROLET ",
+   "MODEL": "TAHOE ",
+   "WAS": "$16,217",
+   "NOW": "$15,221 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "G170270A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "DODGE ",
+   "MODEL": "DURANGO",
+   "WAS": "$19,484",
+   "NOW": "$17,636 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "AP170303B"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD ",
+   "MODEL": "ESCAPE ",
+   "WAS": "$16,545",
+   "NOW": "$15,154 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "U171762A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "FORD ",
+   "MODEL": "FOCUS ",
+   "WAS": "$6,135",
+   "NOW": "$5,924 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "NB171469A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "GMC ",
+   "MODEL": "TERRAIN AWD",
+   "WAS": "$11,000",
+   "NOW": "$10,384 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "K170181A"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "HONDA ",
+   "MODEL": "CIVIC ",
+   "WAS": "$7,254",
+   "NOW": "$6,000 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "U171798A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "HONDA ",
+   "MODEL": "CR-V ",
+   "WAS": "$11,894",
+   "NOW": "$10,892 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "H171028A"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "HONDA ",
+   "MODEL": "CR-V ",
+   "WAS": "$7,254",
+   "NOW": "$6,298 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "B100256"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "HYUNDAI ",
+   "MODEL": "ELANTRA ",
+   "WAS": "$6,124",
+   "NOW": "$5,595 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "H170449B"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "JEEP ",
+   "MODEL": "GRAND CHEROKEE",
+   "WAS": "$13,648",
+   "NOW": "$12,436 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "AJ170290A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "KIA ",
+   "MODEL": "SPORTAGE ",
+   "WAS": "$8,295",
+   "NOW": "$7,749 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "G170350A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "NISSAN ",
+   "MODEL": "ROGUE ",
+   "WAS": "$9,988",
+   "NOW": "$8,178 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "H171159A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER ",
+   "WAS": "$14,952",
+   "NOW": "$13,069 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "B200073"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER ",
+   "WAS": "$12,989",
+   "NOW": "$11,158 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "U171764A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "SUZUKI ",
+   "MODEL": "SX4",
+   "WAS": "$6,295",
+   "NOW": "$5,334 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "U171642A"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "TOYOTA ",
+   "MODEL": "RAV4",
+   "WAS": "$10,495",
+   "NOW": "$9,989 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "U171761A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "TOYOTA ",
+   "MODEL": "RAV4",
+   "WAS": "$12,945",
+   "NOW": "$11,800 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "U180049A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "SUZUKI ",
+   "MODEL": "GRAND VITARA ",
+   "WAS": "$6,289",
+   "NOW": "$5,584 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "B100279A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "NISSAN ",
+   "MODEL": "VERSA ",
+   "WAS": "$5,989",
+   "NOW": "$5,000 ",
+   "LOCATION": "MONROEVILLE LOT 1",
+   "STOCK": "MZ17009A"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "TOYOTA",
+   "MODEL": "RAV4 LIMITED",
+   "WAS": "$11,478",
+   "NOW": "$10,994",
+   "LOCATION": "MONROEVILLE MAZDA",
+   "STOCK": "NM17362A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "MAZDA",
+   "MODEL": "MAZDA CX-3 SPORT",
+   "WAS": "$15,800",
+   "NOW": "$15,000",
+   "LOCATION": "MONROEVILLE MAZDA",
+   "STOCK": "MZ17185A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "MAZDA",
+   "MODEL": "MAZDA3 I TOURING",
+   "WAS": "$14,670",
+   "NOW": "$12,400",
+   "LOCATION": "MONROEVILLE MAZDA",
+   "STOCK": "B860020"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "MAZDA",
+   "MODEL": "MAZDA CX-5 TOURING",
+   "WAS": "$19,898",
+   "NOW": "$19,000",
+   "LOCATION": "MONROEVILLE MAZDA",
+   "STOCK": "B860031"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "ACURA",
+   "MODEL": "ILX 2.0L",
+   "WAS": "$19,000",
+   "NOW": "$18,789",
+   "LOCATION": "MONROEVILLE MAZDA",
+   "STOCK": "B860027"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "MAZDA",
+   "MODEL": "MAZDA6 I SPORT",
+   "WAS": "$15,289",
+   "NOW": "$14,867",
+   "LOCATION": "MONROEVILLE MAZDA",
+   "STOCK": "B860030"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "MAZDA",
+   "MODEL": "Mazda6 Grand Touring",
+   "WAS": "$25,322",
+   "NOW": "$22,376",
+   "LOCATION": "MONROEVILLE MAZDA",
+   "STOCK": "MZ17135A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "FORD",
+   "MODEL": "FUSION SE",
+   "WAS": "$11,986",
+   "NOW": "$10,458 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171773A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "CHEVROLET",
+   "MODEL": "SONIC LT",
+   "WAS": "$10,454",
+   "NOW": "$9,798 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171144A"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "FORESTER",
+   "MODEL": "2.5X",
+   "WAS": "$7,484",
+   "NOW": "$6,929 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171657A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "SUBARU",
+   "MODEL": "LEGACY 2.5I PREMIUM",
+   "WAS": "$15,989",
+   "NOW": "$14,389 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "NB171103A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "VW",
+   "MODEL": "GOLF 2.5L",
+   "WAS": "$10,542",
+   "NOW": "$9,489 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "NB171620A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER 2.5X PREMIUM",
+   "WAS": "$14,621",
+   "NOW": "$13,489 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171042A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU",
+   "MODEL": "IMPREZA 2.0I",
+   "WAS": "$17,542",
+   "NOW": "$16,989 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200127"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "SUBARU",
+   "MODEL": "LEGACY 2.5I ",
+   "WAS": "$14,356",
+   "NOW": "$13,287 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171778A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "DODGE",
+   "MODEL": "CHARGER R/T",
+   "WAS": "$23,956",
+   "NOW": "$22,331 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171476A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER 2.5X",
+   "WAS": "$19,254",
+   "NOW": "$18,559 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U180089A"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK 2.5I",
+   "WAS": "$10,285",
+   "NOW": "$9,289 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171700A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK 2.5I PREMIUM",
+   "WAS": "$24,698",
+   "NOW": "$23,198 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200129"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "KIA",
+   "MODEL": "CADENZA PREMIUM",
+   "WAS": "$21,854",
+   "NOW": "$20,720 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171005A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU ",
+   "MODEL": "XV CROSSTREK 2.0I LIMITIED",
+   "WAS": "$21,845",
+   "NOW": "$20,848 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171703A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "MAZDA",
+   "MODEL": "MIATA GRAND TOURING",
+   "WAS": "$15,424",
+   "NOW": "$14,285 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200131"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER 2.5X PREMIUM",
+   "WAS": "$16,852",
+   "NOW": "$15,000 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171258A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU",
+   "MODEL": "XV CROSSTREK 2.0I PREMIUM",
+   "WAS": "$19,542",
+   "NOW": "$18,400 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171685A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER 2.5I PREMIUM",
+   "WAS": "$22,365",
+   "NOW": "$21,532 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171284A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "HONDA",
+   "MODEL": "CRV SE",
+   "WAS": "$25,874",
+   "NOW": "$24,250 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171792A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER 2.5X",
+   "WAS": "$11,200",
+   "NOW": "$10,172 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U180020A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "SUBARU",
+   "MODEL": "IMPREZA 2.0I LIMITED",
+   "WAS": "$11,654",
+   "NOW": "$10,389 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171353A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER 2.5X PREMIUM",
+   "WAS": "$18,952",
+   "NOW": "$17,884 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U180035A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK 2.5I",
+   "WAS": "$22,000",
+   "NOW": "$20,218 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171317A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "MAZDA",
+   "MODEL": "MIATA",
+   "WAS": "$14,956",
+   "NOW": "$13,699 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "NB180009A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "HONDA",
+   "MODEL": "PILOT VP",
+   "WAS": "$12,000",
+   "NOW": "$10,199 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171529B"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "CHEVROLET",
+   "MODEL": "COBALT LT",
+   "WAS": "$7,254",
+   "NOW": "$6,700 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171826A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU",
+   "MODEL": "LEGACY 2.5I PREMIUM",
+   "WAS": "$17,541",
+   "NOW": "$16,668 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U170880A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "BUICK",
+   "MODEL": "ENCLAVE CXL",
+   "WAS": "$16,345",
+   "NOW": "$15,732 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171717A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK 2.5I PREMIUM",
+   "WAS": "$24,845",
+   "NOW": "$23,434 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200119"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK 3.6R LIMITED",
+   "WAS": "$15,954",
+   "NOW": "$14,521 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200121"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU",
+   "MODEL": "IMPREZA 2.0I LIMITED",
+   "WAS": "$26,845",
+   "NOW": "$25,914 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200120"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK 2.5I PREMIUM",
+   "WAS": "$19,754",
+   "NOW": "$18,000 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171325A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "PORSCHE",
+   "MODEL": "BOXTER S",
+   "WAS": "$54,988",
+   "NOW": "$54,988 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U180069A"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "TOYOTA",
+   "MODEL": "FJ CRUISER",
+   "WAS": "$17,848",
+   "NOW": "$16,875 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171506A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "VOLKSWAGEN ",
+   "MODEL": "CC SPORT ",
+   "WAS": "$13,584",
+   "NOW": "$12,324 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171483A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER ",
+   "WAS": "$19,854",
+   "NOW": "$18,122 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U180081A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "IMPREZA",
+   "WAS": "$18,454",
+   "NOW": "$17,573 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200118"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "SCION ",
+   "MODEL": "FRS ",
+   "WAS": "$17,954",
+   "NOW": "$16,990 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "NB180001A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY PREMIUM ",
+   "WAS": "$23,000",
+   "NOW": "$22,109 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200109"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY PREMIUM ",
+   "WAS": "$22,545",
+   "NOW": "$21,060 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200107"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY LIMITED ",
+   "WAS": "$26,053",
+   "NOW": "$26,053 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200110"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY LIMITED ",
+   "WAS": "$26,451",
+   "NOW": "$26,451 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200108"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY PREMIUM ",
+   "WAS": "$22,945",
+   "NOW": "$22,144 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200106"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY PREMIUM ",
+   "WAS": "$22,925",
+   "NOW": "$22,149 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200112"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU ",
+   "MODEL": "OUTBACK PREMIUM ",
+   "WAS": "$26,000",
+   "NOW": "$25,764 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200103"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER PREMIUM ",
+   "WAS": "$22,154",
+   "NOW": "$20,473 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171707A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER PREMIUM ",
+   "WAS": "$17,565",
+   "NOW": "$16,751 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171617A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "SUBARU ",
+   "MODEL": "OUTBACK PREMIUM ",
+   "WAS": "$24,656",
+   "NOW": "$23,989 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200116"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY LIMITED ",
+   "WAS": "$25,845",
+   "NOW": "$24,438 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200102"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "IMPREZA LIMITED ",
+   "WAS": "$21,456",
+   "NOW": "$20,454 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171804A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU ",
+   "MODEL": "OUTBACK LIMITED ",
+   "WAS": "$15,289",
+   "NOW": "$14,248 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171369A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU ",
+   "MODEL": "CROSSTREK LIMITED ",
+   "WAS": "$19,842",
+   "NOW": "$18,465 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171708A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "KIA ",
+   "MODEL": "SOUL",
+   "WAS": "$12,645",
+   "NOW": "$11,986 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200068A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "OUTBACK PREMIUM ",
+   "WAS": "$22,549",
+   "NOW": "$21,807 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200078"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "CROSSTREK PREMIUM ",
+   "WAS": "$21,000",
+   "NOW": "$19,418 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U170945A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER PREMIUM ",
+   "WAS": "$25,484",
+   "NOW": "$24,372 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171667A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY LIMITED ",
+   "WAS": "$16,845",
+   "NOW": "$15,634 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171497N"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER ",
+   "WAS": "$19,578",
+   "NOW": "$18,647 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200091"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU ",
+   "MODEL": "OUTBACK LIMITED ",
+   "WAS": "$26,484",
+   "NOW": "$25,127 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "B200076"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER TOURING ",
+   "WAS": "$15,745",
+   "NOW": "$14,890 ",
+   "LOCATION": "MONROEVILLE SUBARU",
+   "STOCK": "U171455A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "HONDA",
+   "MODEL": "CR-V EX-L AWD",
+   "WAS": "$16,555",
+   "NOW": "$16,000",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B890046B"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "MERCEDES",
+   "MODEL": "GLE350",
+   "WAS": "$42,160",
+   "NOW": "$39,544",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "I17147A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "DODGE",
+   "MODEL": "DURANGO CITADEL",
+   "WAS": "$29,500",
+   "NOW": "$27,976",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "I17332A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "INFINITI",
+   "MODEL": "QX70 SPORT",
+   "WAS": "$41,500",
+   "NOW": "$40,000",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620102"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "G37X",
+   "WAS": "$22,899",
+   "NOW": "$21,309",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620083"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "JEEEP",
+   "MODEL": "GRAND CHEROKEE",
+   "WAS": "$21,599",
+   "NOW": "$20,700",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "I17335A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "FORD",
+   "MODEL": "FUSION",
+   "WAS": "$19,000",
+   "NOW": "$18,500",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "I17022A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "MURANO",
+   "WAS": "$29,544",
+   "NOW": "$28,750",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "I17336A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "ACURA",
+   "MODEL": "MDX",
+   "WAS": "$22,695",
+   "NOW": "$21,969",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620079A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "INFINITI ",
+   "MODEL": "QX80",
+   "WAS": "$62,500",
+   "NOW": "$61,808",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620104"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "GMC",
+   "MODEL": "TERRAIN",
+   "WAS": "$14,259",
+   "NOW": "$13,885",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "AF170379B"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "TOYOTA",
+   "MODEL": "CAMRY",
+   "WAS": "$15,000",
+   "NOW": "$14,325",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "I18003A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "G37X",
+   "WAS": "$21,359",
+   "NOW": "$20,671",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620091"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "INFINITI",
+   "MODEL": "QX70",
+   "WAS": "$37,498",
+   "NOW": "$36,581",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620090"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "INFINITI",
+   "MODEL": "Q50",
+   "WAS": "$34,988",
+   "NOW": "$34,357",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620092"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "G37X",
+   "WAS": "$20,954",
+   "NOW": "$20,000",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620095"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "G37X",
+   "WAS": "$21,699",
+   "NOW": "$20,878",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620088"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "INFINITI",
+   "MODEL": "Q50",
+   "WAS": "$26,744",
+   "NOW": "$25,996",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620096"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "G37X",
+   "WAS": "$20,974",
+   "NOW": "$20,406",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620098"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "INFINITI",
+   "MODEL": "QX70",
+   "WAS": "$30,347",
+   "NOW": "$29,478",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620099"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "INFINITI",
+   "MODEL": "Q50",
+   "WAS": "$28,697",
+   "NOW": "$27,785",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620100"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "INFINITI",
+   "MODEL": "Q50",
+   "WAS": "$25,398",
+   "NOW": "$24,667",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620101"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI ",
+   "MODEL": "M37X",
+   "WAS": "$26,500",
+   "NOW": "$25,747",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620109"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU ",
+   "MODEL": "LEGACY",
+   "WAS": "$12,855",
+   "NOW": "$12,364",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "I17086A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "INFINITI",
+   "MODEL": "QX70",
+   "WAS": "$32,333",
+   "NOW": "$31,000",
+   "LOCATION": "NORTH HILLS INFINITI",
+   "STOCK": "B620111"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "Kia",
+   "MODEL": "Sportage LX",
+   "WAS": "$13,091 ",
+   "NOW": "$12,000 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880023A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "Ford",
+   "MODEL": "Explorer XLT",
+   "WAS": "$17,195 ",
+   "NOW": "$15,250 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM16959A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda6 Touring",
+   "WAS": "$16,777 ",
+   "NOW": "$15,250 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880074"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda6 Touring",
+   "WAS": "$16,091 ",
+   "NOW": "$14,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880073"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda6 Touring",
+   "WAS": "$15,691 ",
+   "NOW": "$14,391 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880075"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda6 Touring",
+   "WAS": "$20,195 ",
+   "NOW": "$19,000 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880093"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Lincoln",
+   "MODEL": "MKC Black Label AWD",
+   "WAS": "$34,779 ",
+   "NOW": "$31,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880097"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "CX-5 Mazda Certified Sport",
+   "WAS": "$18,100 ",
+   "NOW": "$16,750 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880099"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "Volkswagen",
+   "MODEL": "Tiguan 4motion",
+   "WAS": "$13,250 ",
+   "NOW": "12,000",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17150A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Lexus",
+   "MODEL": "IS 350",
+   "WAS": "$34,491 ",
+   "NOW": "$32,750 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM161089A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda6 Grand Touring",
+   "WAS": "$20,500 ",
+   "NOW": "$19,250 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880103"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Sport",
+   "WAS": "$10,991 ",
+   "NOW": "$9,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17016A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Nissan",
+   "MODEL": "Rogue SV AWD",
+   "WAS": "$19,021 ",
+   "NOW": "$16,991 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17313A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "Cadillac",
+   "MODEL": "STS Luxury",
+   "WAS": "$13,000 ",
+   "NOW": "$12,000 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880059A"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "Mazda",
+   "MODEL": "Mazda3 Touring",
+   "WAS": "$7,200 ",
+   "NOW": "$6,000 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17100A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Mazda Certified Grand Touring",
+   "WAS": "$16,750 ",
+   "NOW": "$15,750 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880111"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "CX-9 Mazda Certified Grand Touring",
+   "WAS": "$22,591 ",
+   "NOW": "$22,000 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880112"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Mazda ",
+   "MODEL": "CX-5 Mazda Certified Grand Touring",
+   "WAS": "$22,500 ",
+   "NOW": "$21,750 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880114"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Mazda ",
+   "MODEL": "CX-5 Mazda Certified Grand Touring",
+   "WAS": "$21,500 ",
+   "NOW": "$20,391 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880108"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Mazda Certified Touring",
+   "WAS": "$13,200 ",
+   "NOW": "$12,250 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880110"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Factory Certified S Grand Touring",
+   "WAS": "$17,250 ",
+   "NOW": "$16,391 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880105"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Factory Certified Touring",
+   "WAS": "$15,391 ",
+   "NOW": "$14,250 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880113"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Factory Certified Touring",
+   "WAS": "$14,200 ",
+   "NOW": "$13,400 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17282A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "JEEP",
+   "MODEL": "Wrangler Unlimited Sport",
+   "WAS": "$26,250 ",
+   "NOW": "$25,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM161106A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda6 Grand Touring",
+   "WAS": "$18,000 ",
+   "NOW": "$16,750 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880115"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Volvo",
+   "MODEL": "S60 T5 Premier Plus AWD",
+   "WAS": "$24,000 ",
+   "NOW": "$20,750 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17346A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "Honda",
+   "MODEL": "CR-V EX-L AWD",
+   "WAS": "$19,200 ",
+   "NOW": "$18,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17334A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "Mazda ",
+   "MODEL": "Miata Sport",
+   "WAS": "$16,100 ",
+   "NOW": "$15,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880106a"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "Nissan",
+   "MODEL": " Juke",
+   "WAS": "$12,500 ",
+   "NOW": "$11,600 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "MZ17146A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda6 Grand Touring",
+   "WAS": "$24,000 ",
+   "NOW": "$23,700 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17358A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Mazda ",
+   "MODEL": "CX-5 Factory Certified Touring",
+   "WAS": "$20,200 ",
+   "NOW": "$19,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880118"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Mazda ",
+   "MODEL": "CX-5 Factory Certified Grand Touring",
+   "WAS": "$23,000 ",
+   "NOW": "$22,250 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880119"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Subaru",
+   "MODEL": "Impreza",
+   "WAS": "$15,891 ",
+   "NOW": "$14,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17390A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Lexus",
+   "MODEL": "IS 250 Sport",
+   "WAS": "$29,250 ",
+   "NOW": "$27,250 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17135A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "CX-5 Factory Certified Sport",
+   "WAS": "$17,991 ",
+   "NOW": "$17,200 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880117"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Factory Certified S Grand Touring",
+   "WAS": "$18,000 ",
+   "NOW": "$17,000 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880122"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda6 Touring",
+   "WAS": "$18,200 ",
+   "NOW": "$17,200 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880123"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Factory Certified Touring",
+   "WAS": "$15,000 ",
+   "NOW": "$14,200 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880121"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "Mazda ",
+   "MODEL": "Mazda3 Factory Certified S Touring",
+   "WAS": "$15,100 ",
+   "NOW": "$14,100 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "B880120"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "Toyota",
+   "MODEL": "Yaris",
+   "WAS": "$7,200 ",
+   "NOW": "$6,500 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM17324A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "Ford",
+   "MODEL": "Mustang GT Premium",
+   "WAS": "$24,000 ",
+   "NOW": "$22,750 ",
+   "LOCATION": "NORTH HILLS MAZDA",
+   "STOCK": "NM16866A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA TDI",
+   "WAS": "$20,000",
+   "NOW": "$17,000",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850059"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA  ",
+   "WAS": "$11,988",
+   "NOW": "$10,000",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850056"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "GTI",
+   "WAS": "$22,866",
+   "NOW": "$20,482",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850064"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA",
+   "WAS": "$13,900",
+   "NOW": "$11,500",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850069"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA SE",
+   "WAS": "$23,330",
+   "NOW": "$18,871",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "VW17370A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA",
+   "WAS": "$12,544",
+   "NOW": "$11,401",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850079"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA",
+   "WAS": "$12,800",
+   "NOW": "$10,992",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850077"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU",
+   "MODEL": "CROSSTREK",
+   "WAS": "$20,999",
+   "NOW": "$20,805",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "NV17552A"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "TIGUAN AWD",
+   "WAS": "$21,544",
+   "NOW": "$20,920",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850101"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA",
+   "WAS": "$11,800",
+   "NOW": "$11,250",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "NV17375A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "KIA",
+   "MODEL": "SORRENTO",
+   "WAS": "$12,825",
+   "NOW": "$12,463",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "NV17499A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA",
+   "WAS": "$15,500",
+   "NOW": "$14,999",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850088"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA",
+   "WAS": "$16,400",
+   "NOW": "$15,839",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850090"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "AUDI",
+   "MODEL": "A3 QUATTRO",
+   "WAS": "$23,760",
+   "NOW": "$23,214",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850089"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "GTI",
+   "WAS": "$20,358",
+   "NOW": "$19,741",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "NV17518A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "KIA",
+   "MODEL": "SOUL",
+   "WAS": "$12,485",
+   "NOW": "$11,911",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850062B"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA",
+   "WAS": "$15,787",
+   "NOW": "$15,522",
+   "LOCATION": "NORTH HILLS VOLKSWAGEN",
+   "STOCK": "B850094"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "GMC",
+   "MODEL": "SIERRA SLE 4X4",
+   "WAS": "$45,991",
+   "NOW": "$37,562",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG170352A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SV AWD",
+   "WAS": "$26,249",
+   "NOW": "$22,534",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG170166A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "CHEVROLET",
+   "MODEL": "TRAILBLAZER LT",
+   "WAS": "$11,000",
+   "NOW": "$9,476",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400042A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHEVROLET",
+   "MODEL": "SUBURBAN LTZ",
+   "WAS": "$52,758",
+   "NOW": "$47,317",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG170189A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHEVY",
+   "MODEL": "IMPALA LT",
+   "WAS": "$20,766",
+   "NOW": "$17,736",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400092"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHRYSLER",
+   "MODEL": "300C AWD",
+   "WAS": "$25,818",
+   "NOW": "$22,689",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B100145"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "CHEVROLET",
+   "MODEL": "IMPALA LTZ",
+   "WAS": "$11,152",
+   "NOW": "$10,000",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG160530C"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "BUICK",
+   "MODEL": "REGAL PREMIUM",
+   "WAS": "$16,701",
+   "NOW": "$13,771",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WB170175A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN",
+   "MODEL": "MAXIMA SR",
+   "WAS": "$30,994",
+   "NOW": "$27,000",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400099"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "BUICK",
+   "MODEL": "ENCORE PREM AWD",
+   "WAS": "$25,862",
+   "NOW": "$23,236",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400100"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "CHEVY",
+   "MODEL": "EQUINOX LT AWD",
+   "WAS": "$15,528",
+   "NOW": "$13,695",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG170427A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "AUDI",
+   "MODEL": "Q3 PRESTIGE ",
+   "WAS": "$34,400",
+   "NOW": "$31,905",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG170395A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "DODGE",
+   "MODEL": "DURANGO LTD",
+   "WAS": "$28,742",
+   "NOW": "$27,263",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400101"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "TOYOTA",
+   "MODEL": "TACOMA SR-5",
+   "WAS": "$25,835",
+   "NOW": "$24,359",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400104"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "INFINITI",
+   "MODEL": "Q50 AWD",
+   "WAS": "$26,929",
+   "NOW": "$25,568",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400105"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "GMC",
+   "MODEL": "YUKON DENALI XL",
+   "WAS": "$52,280",
+   "NOW": "$49,659",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400106"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA S",
+   "WAS": "$15,769",
+   "NOW": "$14,849",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400107"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA S",
+   "WAS": "$16,109",
+   "NOW": "$15,141",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400108"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "FORD",
+   "MODEL": "FOCUS SE",
+   "WAS": "$14,722",
+   "NOW": "$12,912",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400109"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "BUICK",
+   "MODEL": "ENCORE PREM AWD",
+   "WAS": "$26,271",
+   "NOW": "$23,591",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400110"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HONDA",
+   "MODEL": "PILOT SE 4WD",
+   "WAS": "$27,310",
+   "NOW": "$25,000",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B420035"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "CHEVROLET",
+   "MODEL": "IMPALA",
+   "WAS": "$10,536",
+   "NOW": "$9,612",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG170351A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHEVROLET",
+   "MODEL": "SILVERADO 1500 ",
+   "WAS": "$30,000",
+   "NOW": "$27,137",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG170194A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "CHEVROLET",
+   "MODEL": "MALIBU LT",
+   "WAS": "$16,642",
+   "NOW": "$15,268",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400112"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "CHEVROLET",
+   "MODEL": "CRUZE LT",
+   "WAS": "$14,672",
+   "NOW": "$13,847",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400111"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "GMC",
+   "MODEL": "YUKON SLT",
+   "WAS": "$48,833",
+   "NOW": "$46,835",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400113"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SV AWD",
+   "WAS": "$21,594",
+   "NOW": "$20,497",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400114"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SL AWD",
+   "WAS": "$23,520",
+   "NOW": "$22,511",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400115"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "CHEVROLET",
+   "MODEL": "CRUZE LT",
+   "WAS": "$13,957",
+   "NOW": "$13,213",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400117"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "CHEVROLET",
+   "MODEL": "MALIBU LT",
+   "WAS": "$18,043",
+   "NOW": "$16,910",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "B400116"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "CC",
+   "WAS": "$12,352",
+   "NOW": "$11,675",
+   "LOCATION": "ROBINSON C1",
+   "STOCK": "WG170450A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "KIA",
+   "MODEL": "SEDONA",
+   "WAS": "$26,000",
+   "NOW": "$25,525",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17329A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "KIA",
+   "MODEL": "SPORTAGE EX AWD",
+   "WAS": "$16,435",
+   "NOW": "$13,812",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WG170124B"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "KIA",
+   "MODEL": "SORENTO AWD LX",
+   "WAS": "$19,100",
+   "NOW": "$17,756",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17385A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "KIA",
+   "MODEL": "FORTE EX",
+   "WAS": "$16,500",
+   "NOW": "$15,705",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410082"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "KIA",
+   "MODEL": "OPTIMA",
+   "WAS": "$17,500",
+   "NOW": "$14,767",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410081"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "HYUNDIA",
+   "MODEL": "SONATA",
+   "WAS": "$11,000",
+   "NOW": "$9,619",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17508A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "FORD",
+   "MODEL": "FUSION SEL",
+   "WAS": "$10,500",
+   "NOW": "$9,043",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17521A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "JEEP",
+   "MODEL": "CHEROKEE SPORT",
+   "WAS": "$17,000",
+   "NOW": "$15,083",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17392A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "HONDA",
+   "MODEL": "CRV EX",
+   "WAS": "$27,000",
+   "NOW": "$24,773",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17588A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "KIA",
+   "MODEL": "SPORTAGE",
+   "WAS": "$17,000",
+   "NOW": "$16,000",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17076A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "KIA",
+   "MODEL": "FORTE",
+   "WAS": "$14,000",
+   "NOW": "$12,653",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410075"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "FORD",
+   "MODEL": "Mustang GT ANNIV",
+   "WAS": "$40,000",
+   "NOW": "$35,800",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410072"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "KIA",
+   "MODEL": "OPTIMA EX",
+   "WAS": "$18,700",
+   "NOW": "$17,600",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410070"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "HYUNDAI",
+   "MODEL": "TUCSON SE",
+   "WAS": "$17,646",
+   "NOW": "$17,222",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410083"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD",
+   "MODEL": "ESCAPE SEL",
+   "WAS": "$15,000",
+   "NOW": "$12,481",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410051A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "MINI",
+   "MODEL": "COOPER S",
+   "WAS": "$15,000",
+   "NOW": "$12,736",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17541A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDIA",
+   "MODEL": "SANTA FE SPORT",
+   "WAS": "$18,900",
+   "NOW": "$16,298",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17531A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "KIA",
+   "MODEL": "SORENTO LX",
+   "WAS": "$18,350",
+   "NOW": "$15,400",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "WX17440A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "KIA",
+   "MODEL": "OPTIMA",
+   "WAS": "$14,472",
+   "NOW": "$14,194",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410089"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "KIA",
+   "MODEL": "OPTIMA",
+   "WAS": "$18,006",
+   "NOW": "$16,574",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410088"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "KIA",
+   "MODEL": "OPTIMA",
+   "WAS": "$18,574",
+   "NOW": "$16,183",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410087"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "KIA",
+   "MODEL": "FORTE",
+   "WAS": "$18,123",
+   "NOW": "$17,202",
+   "LOCATION": "ROBINSON KIA",
+   "STOCK": "B410086"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "SATURN",
+   "MODEL": "I-ON",
+   "WAS": "$3,697",
+   "NOW": "$2,996",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "WX17393A"
+ },
+ {
+   "YEAR": 1998,
+   "MAKE": "BUICK",
+   "MODEL": "LESABRE LTD",
+   "WAS": "$3,938",
+   "NOW": "$3,538",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "WX17429A"
+ },
+ {
+   "YEAR": 2005,
+   "MAKE": "BUICK",
+   "MODEL": "LACROSSE",
+   "WAS": "$3,947",
+   "NOW": "$3,657",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "WG170192B"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "CHRYSLER",
+   "MODEL": "PT CRUISER",
+   "WAS": "$3,964",
+   "NOW": "$3,631",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "WX16755A"
+ },
+ {
+   "YEAR": 2001,
+   "MAKE": "VOLVO",
+   "MODEL": "V70 WGN",
+   "WAS": "$3,965",
+   "NOW": "$2,744",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "SH170524A"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "NISSAN",
+   "MODEL": "VERSA",
+   "WAS": "$4,780",
+   "NOW": "$4,480",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B890079A"
+ },
+ {
+   "YEAR": 2004,
+   "MAKE": "TOYOTA",
+   "MODEL": "CORROLA S",
+   "WAS": "$4,955",
+   "NOW": "$4,755",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NM17419A"
+ },
+ {
+   "YEAR": 2005,
+   "MAKE": "VOLVO",
+   "MODEL": "S-40",
+   "WAS": "$5,000",
+   "NOW": "$4,705",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NV17419A"
+ },
+ {
+   "YEAR": 2004,
+   "MAKE": "JEEP",
+   "MODEL": "GR-CHEROKEE",
+   "WAS": "$5,000",
+   "NOW": "$4,633",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "SH170410A"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "SUBARU",
+   "MODEL": "BAJA",
+   "WAS": "$6,940",
+   "NOW": "$6,590",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NB171436A"
+ },
+ {
+   "YEAR": 2004,
+   "MAKE": "TOYOTA",
+   "MODEL": "HIGHLANDER",
+   "WAS": "$6,990",
+   "NOW": "$6,519",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "U171591B"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "VW",
+   "MODEL": "JETTA",
+   "WAS": "$6,923",
+   "NOW": "$6,000",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B820028"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "MAZDA",
+   "MODEL": "5-SPORT",
+   "WAS": "$9,565",
+   "NOW": "$8,965",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "MZ17078A"
+ },
+ {
+   "YEAR": 2005,
+   "MAKE": "CADILLAC",
+   "MODEL": "ESCALADE",
+   "WAS": "$10,000",
+   "NOW": "$9,431",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "SN160007B"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "KIA",
+   "MODEL": "SOUL",
+   "WAS": "$5,694",
+   "NOW": "$5,274",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "AF170361A"
+ },
+ {
+   "YEAR": 2003,
+   "MAKE": "VW",
+   "MODEL": "BUG",
+   "WAS": "$4,005",
+   "NOW": "$3,605",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B500120A"
+ },
+ {
+   "YEAR": 2004,
+   "MAKE": "TOYOTA",
+   "MODEL": "RAV-4",
+   "WAS": "$5,416",
+   "NOW": "$5,116",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NB171429A"
+ },
+ {
+   "YEAR": 2002,
+   "MAKE": "JEEP",
+   "MODEL": "LIBERTY",
+   "WAS": "$5,000",
+   "NOW": "$4,491",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NV17526A"
+ },
+ {
+   "YEAR": 2002,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK WGN",
+   "WAS": "$4,903",
+   "NOW": "$4,408",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "MZ17087A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "MINI COOPER",
+   "MODEL": "   S-TYPE",
+   "WAS": "$12,639",
+   "NOW": "$11,939",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "AF160585A"
+ },
+ {
+   "YEAR": 1999,
+   "MAKE": "SATURN",
+   "MODEL": "SC-2 CPE",
+   "WAS": "$2,994",
+   "NOW": "$2,694",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B410062A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONATA LTD",
+   "WAS": "$9,441",
+   "NOW": "$8,941",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "H171026A"
+ },
+ {
+   "YEAR": 2004,
+   "MAKE": "CHEVROLET",
+   "MODEL": "1500 WORK TRUCK",
+   "WAS": "$5,822",
+   "NOW": "$5,427",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NB171465A"
+ },
+ {
+   "YEAR": 1999,
+   "MAKE": "BMW",
+   "MODEL": "M3 CONVERTIBLE",
+   "WAS": "$7,913",
+   "NOW": "$7,615",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B100328"
+ },
+ {
+   "YEAR": 2003,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER PRE, AWD",
+   "WAS": "$5,955",
+   "NOW": "$5,350",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B100317"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "FORD",
+   "MODEL": "ESCAPE XLT 4X4",
+   "WAS": "$6,892",
+   "NOW": "$6,592",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "WX17566A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONATA GLS",
+   "WAS": "$6,894",
+   "NOW": "$6,394",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "H170736A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA 2.5 S",
+   "WAS": "$7,451",
+   "NOW": "$7,185",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B700034A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONATA LTD",
+   "WAS": "$7,662",
+   "NOW": "$6,962",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "SH170136A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA 2.5 SDN",
+   "WAS": "$8,433",
+   "NOW": "$8,139",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B890091A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "INFINITI",
+   "MODEL": "G35X AWD",
+   "WAS": "$8,594",
+   "NOW": "$7,994",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "I17264A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE AWD",
+   "WAS": "$8,859",
+   "NOW": "$8,564",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NB170497A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "LAND ROVER",
+   "MODEL": "LR-2 AWD",
+   "WAS": "$8,981",
+   "NOW": "$8,518",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B870033A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "TOYOTA",
+   "MODEL": "PRIUS",
+   "WAS": "$10,551",
+   "NOW": "$10,000",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "U171526A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU",
+   "MODEL": "OUTBACK WGN AWD",
+   "WAS": "$10,966",
+   "NOW": "$10,566",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "U171106A"
+ },
+ {
+   "YEAR": 2006,
+   "MAKE": "LEXUS",
+   "MODEL": "GS-330 AWD",
+   "WAS": "$11,486",
+   "NOW": "$11,168",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B880041A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "JEEP",
+   "MODEL": "GR-CHEROKEE-4X4",
+   "WAS": "$11,497",
+   "NOW": "$10,975",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B500045A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "CHRYSLER",
+   "MODEL": "300C-AWD",
+   "WAS": "$11,692",
+   "NOW": "$11,185",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "I17333A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "VW",
+   "MODEL": "TIGUAN AWD",
+   "WAS": "$12,506",
+   "NOW": "$12,254",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NV17309A"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "TOYOTA",
+   "MODEL": "TACOMA EXT CAB",
+   "WAS": "$13,989",
+   "NOW": "$13,688",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B890070B"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "GMC",
+   "MODEL": "ACADIA AWD",
+   "WAS": "$14,997",
+   "NOW": "$14,497",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "BB17008B"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "HONDA",
+   "MODEL": " PILOT EXL AWD",
+   "WAS": "$15,943",
+   "NOW": "$14,943",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "WX17326B"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "INFINITI",
+   "MODEL": "QX-56 AWD",
+   "WAS": "$16,676",
+   "NOW": "$15,976",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "AP170404B"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "LEXUS",
+   "MODEL": "300 H",
+   "WAS": "$17,615",
+   "NOW": "$16,915",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B620025A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "DODGE",
+   "MODEL": "RAM QUAD CAB 4X4",
+   "WAS": "$21,229",
+   "NOW": "$20,829",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B850036A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "LEXUS",
+   "MODEL": "RX-350 AWD",
+   "WAS": "$21,900",
+   "NOW": "$21,483",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "AP170450A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "INFINITI",
+   "MODEL": "QX-56 AWD",
+   "WAS": "$30,000",
+   "NOW": "$29,355",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "I17283A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "HONDA",
+   "MODEL": "PILOT EXL AWD",
+   "WAS": "$11,776",
+   "NOW": "$11,467",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "U171402B"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER AWD",
+   "WAS": "$10,937",
+   "NOW": "$10,638",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "NB171172B"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANTRA TOURING",
+   "WAS": "$6,904",
+   "NOW": "$6,657",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "B510097"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "HYUNDAI",
+   "MODEL": "VELOSTER CPE",
+   "WAS": "$7,902",
+   "NOW": "$7,758",
+   "LOCATION": "ROBINSON LOT 1 EXPRESS",
+   "STOCK": "SH170510C"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANTRA SE",
+   "WAS": "$13,571",
+   "NOW": "$13,571",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510112"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONATA SPORT",
+   "WAS": "$16,997",
+   "NOW": "$16,997",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510111"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ACCENT GLS",
+   "WAS": "$7,000",
+   "NOW": "$6,797",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "SH170408A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDAI",
+   "MODEL": "TUCSON SE AWD",
+   "WAS": "$18,182",
+   "NOW": "$17,829",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510110"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANTRA TOURING SE",
+   "WAS": "$10,500",
+   "NOW": "$9,994",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "SH170608A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANTRA SE",
+   "WAS": "$13,447",
+   "NOW": "$12,992",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "SH180026A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANRA GLS",
+   "WAS": "$12,542",
+   "NOW": "$11,999",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "H180038A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ACCENT SE",
+   "WAS": "$11,648",
+   "NOW": "$10,993",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510108"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "HYUNDAI",
+   "MODEL": "TUCSON LIMITED AWD",
+   "WAS": "$27,799",
+   "NOW": "$27,498",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "H171209A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "FORD",
+   "MODEL": "ESCAPE XLT",
+   "WAS": "$11,452",
+   "NOW": "$10,735",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "SH170574A"
+ },
+ {
+   "YEAR": 2012,
+   "MAKE": "HONDA",
+   "MODEL": "CIVIC EX",
+   "WAS": "$11,775",
+   "NOW": "$11,394",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "SH180000A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "GENESIS 3.8 AWD",
+   "WAS": "$31,000",
+   "NOW": "$29,989",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510106"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SANTA FE SPORT AWD",
+   "WAS": "$18,038",
+   "NOW": "$17,587",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510104"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONATA LIMITED",
+   "WAS": "$19,135",
+   "NOW": "$18,656",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510105"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANTRA",
+   "WAS": "$7,326",
+   "NOW": "$6,987",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "SH170236A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "MAZDA",
+   "MODEL": "CX-9 TOURING",
+   "WAS": "$19,287",
+   "NOW": "$18,318",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510100"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONATA SPORT",
+   "WAS": "$16,068",
+   "NOW": "$15,665",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "H171052A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "PONTIAC",
+   "MODEL": "G6",
+   "WAS": "$7,500",
+   "NOW": "$6,939",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510089A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONATA SE",
+   "WAS": "$14,959",
+   "NOW": "$14,367",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510101"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "KIA",
+   "MODEL": "SEDONA LX",
+   "WAS": "$23,072",
+   "NOW": "$21,806",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510098"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "KIA",
+   "MODEL": "SEDONA LX",
+   "WAS": "$22,766",
+   "NOW": "$21,204",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510099"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SANTA FE SPORT AWD",
+   "WAS": "$20,000",
+   "NOW": "$18,343",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510095"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANTRA GT",
+   "WAS": "$15,395",
+   "NOW": "$14,254",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510092"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SONATA LIMITED 2.0T",
+   "WAS": "$20,112",
+   "NOW": "$17,944",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510090"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANTRA ",
+   "WAS": "$12,432",
+   "NOW": "$11,760",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "SH170577A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDAI",
+   "MODEL": "SANTA FE GLS AWD",
+   "WAS": "$22,245",
+   "NOW": "$20,970",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510083"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "HYUNDAI",
+   "MODEL": "GENESIS 5.0",
+   "WAS": "$32,544",
+   "NOW": "$29,994",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510084"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "HYUNDAI",
+   "MODEL": "ELANTRA GT",
+   "WAS": "$14,000",
+   "NOW": "$11,852",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "B510076"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "SUBARU",
+   "MODEL": "FORESTER LIMITED ",
+   "WAS": "$20,750",
+   "NOW": "$17,996",
+   "LOCATION": "SOUTH HILLS HYUNDAI",
+   "STOCK": "SH170273A"
+ },
+ {
+   "YEAR": 2009,
+   "MAKE": "ACURA ",
+   "MODEL": "RDX",
+   "WAS": "$13,998",
+   "NOW": "$13,176",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "I17175A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD",
+   "MODEL": "Explorer XLT",
+   "WAS": "$23,750",
+   "NOW": "$22,776",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "I17193A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "G37 X",
+   "WAS": "$22,589",
+   "NOW": "$21,496",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630039"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "G37 X",
+   "WAS": "$21,789",
+   "NOW": "$20,920",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "H171164B"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "JX 35 ",
+   "WAS": "$23,749",
+   "NOW": "$21,416",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "SI17090A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "INFINITI",
+   "MODEL": "Q50 2.0 T",
+   "WAS": "$32,147",
+   "NOW": "$30,697",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630024"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "INFINITI",
+   "MODEL": "Q50 ",
+   "WAS": "$27,850",
+   "NOW": "$25,894",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630041"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "INFINITI",
+   "MODEL": "Q50",
+   "WAS": "$27,875",
+   "NOW": "$27,196",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630038"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "QX60",
+   "WAS": "$34,700",
+   "NOW": "$33,498",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630036"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "INFINITI",
+   "MODEL": "QX60",
+   "WAS": "$47,450",
+   "NOW": "$46,307",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630044"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "INFINITI",
+   "MODEL": "QX80",
+   "WAS": "$67,240",
+   "NOW": "$65,150",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630046"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "INFINITI",
+   "MODEL": "QX80",
+   "WAS": "$61,149",
+   "NOW": "$59,850",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630047"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "INFINITI",
+   "MODEL": "QX80",
+   "WAS": "$60,170",
+   "NOW": "$58,740",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630049"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "INFINITI",
+   "MODEL": "QX56",
+   "WAS": "$36,150",
+   "NOW": "$34,965",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630045"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "NISSAN",
+   "MODEL": "MAXIMA 3.5 SV",
+   "WAS": "$15,749",
+   "NOW": "$14,205",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630024A"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "FORD",
+   "MODEL": "EDGESPORT",
+   "WAS": "$20,780",
+   "NOW": "$19,700",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "SI17275A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "JEEP",
+   "MODEL": "CHEROKEE LATTITUDE",
+   "WAS": "$19,740",
+   "NOW": "$16,765",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "SI17303A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "MERCEDES-BENZ",
+   "MODEL": "CLS 400 4MATIC",
+   "WAS": "$50,179",
+   "NOW": "$44,994",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "SI17244A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "SUBARU ",
+   "MODEL": "FORESTER 2.5X",
+   "WAS": "$16,478",
+   "NOW": "$15,266",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "B630008A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "SUBARU ",
+   "MODEL": "XV CROSSTREK",
+   "WAS": "$20,178",
+   "NOW": "$19,243",
+   "LOCATION": "SOUTH HILLS INFINITI ",
+   "STOCK": "SI17273A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA S",
+   "WAS": "$13,542",
+   "NOW": "$13,542",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500219"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN",
+   "MODEL": "MAXIMA SR",
+   "WAS": "$26,588",
+   "NOW": "$26,588",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500218"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA SV",
+   "WAS": "$16,390",
+   "NOW": "$16,390",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500220"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "TOYOTA",
+   "MODEL": "PRIUS",
+   "WAS": "$12,302",
+   "NOW": "$12,302",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500172A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SL",
+   "WAS": "$23,927",
+   "NOW": "$23,792",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500217"
+ },
+ {
+   "YEAR": 2008,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA SL",
+   "WAS": "$9,333",
+   "NOW": "$9,333",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500164A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "NISSAN",
+   "MODEL": "MURANO SL",
+   "WAS": "$14,899",
+   "NOW": "$14,581",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500181A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SL",
+   "WAS": "$23,138",
+   "NOW": "$23,138",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500211"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "JUKE NISMO",
+   "WAS": "$18,485",
+   "NOW": "$18,199",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500213"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "PATHFINDER SV",
+   "WAS": "$20,735",
+   "NOW": "$20,735",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500216"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA SV",
+   "WAS": "$17,768",
+   "NOW": "$17,537",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500214"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "HYUNDAI ",
+   "MODEL": "ELANTRA",
+   "WAS": "$10,123",
+   "NOW": "$9,987",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500202A"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "PATHFINDER PLAT",
+   "WAS": "$27,792",
+   "NOW": "$26,976",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500210"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA S",
+   "WAS": "$14,572",
+   "NOW": "$14,474",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500208"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "NISSAN",
+   "MODEL": "MAXIMA SR",
+   "WAS": "$27,327",
+   "NOW": "$27,257",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500209"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "SENTRA SR",
+   "WAS": "$13,134",
+   "NOW": "$12,989",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500203"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "NISSAN",
+   "MODEL": "CADILLAC SRX",
+   "WAS": "$13,989",
+   "NOW": "$13,463",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "SN170765A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA S",
+   "WAS": "$15,189",
+   "NOW": "$15,189",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500204"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SELECT",
+   "WAS": "$16,450",
+   "NOW": "$16,591",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500199"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SELECT",
+   "WAS": "$15,395",
+   "NOW": "$15,351",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500205"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "NISSAN",
+   "MODEL": "JUKE SV",
+   "WAS": "$15,053",
+   "NOW": "$14,899",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500207"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "MAXIMA SR",
+   "WAS": "$16,532",
+   "NOW": "$16,435",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500201"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "MAXIMA SV",
+   "WAS": "$18,803",
+   "NOW": "$18,681",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500200"
+ },
+ {
+   "YEAR": 2017,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA SR",
+   "WAS": "$21,079",
+   "NOW": "$19,974",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500194"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "SENTRA SV",
+   "WAS": "$12,499",
+   "NOW": "$12,338",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500197"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "DODGE ",
+   "MODEL": "GRAND CARAVAN RT",
+   "WAS": "$13,976",
+   "NOW": "$13,502",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500115B"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "SENTRA SV",
+   "WAS": "$13,938",
+   "NOW": "$13,646",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500196"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "NISSAN",
+   "MODEL": "FRONTIER SV ",
+   "WAS": "$22,727",
+   "NOW": "$22,358",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500193"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "NISSAN",
+   "MODEL": "ROGUE SV AWD",
+   "WAS": "$12,899",
+   "NOW": "$12,907",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "SN170392A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "NISSAN",
+   "MODEL": "PATHFINDER SV",
+   "WAS": "$24,542",
+   "NOW": "$22,998",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "SN170752A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "NISSAN",
+   "MODEL": "ALTIMA S",
+   "WAS": "$9,914",
+   "NOW": "$9,389",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "SN160754A"
+ },
+ {
+   "YEAR": 2007,
+   "MAKE": "JEEP ",
+   "MODEL": "WRANGLER X",
+   "WAS": "$17,269",
+   "NOW": "$17,279",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500191"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "TOYOTA",
+   "MODEL": "TUNDRA LIMITED",
+   "WAS": "$33,971",
+   "NOW": "$32,989",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "SN160161A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "CHRYSLER",
+   "MODEL": "200 C",
+   "WAS": "$19,555",
+   "NOW": "$18,446",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500180"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "FORD",
+   "MODEL": "FOCUS SE",
+   "WAS": "$12,916",
+   "NOW": "$11,956",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500186"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "FORD",
+   "MODEL": "EDGE SEL",
+   "WAS": "$23,989",
+   "NOW": "$23,494",
+   "LOCATION": "SOUTH HILLS NISSAN",
+   "STOCK": "B500188"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "PASSAT TDI SEL",
+   "WAS": "$24,785",
+   "NOW": "$23,000",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "B700049"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "KIA",
+   "MODEL": "SOUL +",
+   "WAS": "$11,000",
+   "NOW": "$10,250",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "VW17389A"
+ },
+ {
+   "YEAR": 2011,
+   "MAKE": "LAND ROVER",
+   "MODEL": "LR2",
+   "WAS": "$20,000",
+   "NOW": "$19,500",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "VW17399A"
+ },
+ {
+   "YEAR": 2016,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "BEETLE CONVERTIBLE",
+   "WAS": "$22,000",
+   "NOW": "$20,875",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "VW17384A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA 2.0 S MANUAL",
+   "WAS": "$12,775",
+   "NOW": "$12,250",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "B700052"
+ },
+ {
+   "YEAR": 2013,
+   "MAKE": "GMC",
+   "MODEL": "YUKON SLT",
+   "WAS": "$32,000",
+   "NOW": "$30,500",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "B700043A"
+ },
+ {
+   "YEAR": 2010,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "JETTA 2.5 SE",
+   "WAS": "$9,000",
+   "NOW": "$8,580",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "VW18019A"
+ },
+ {
+   "YEAR": 2015,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "TIGUAN S 4MOTION",
+   "WAS": "$17,000",
+   "NOW": "$16,600",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "B700054"
+ },
+ {
+   "YEAR": 2014,
+   "MAKE": "VOLKSWAGEN",
+   "MODEL": "CC 2.0T SPORT",
+   "WAS": "$19,000",
+   "NOW": "$18,000",
+   "LOCATION": "SOUTH HILLS VOLKSWAGEN",
+   "STOCK": "B700053"
+ }
+]
+}
