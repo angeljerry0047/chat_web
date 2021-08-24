@@ -8,7 +8,6 @@ function EzChatBuyingOptions(){
    * ChatContext. Use dataFunctions.functionName to reference
    */
   const dataFunctions = useContext(ChatContext);
-
   return ( 
   <> 
     <div>

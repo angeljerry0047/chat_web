@@ -5,7 +5,6 @@ import ChatContext from '../context/chatContext';
 import EzChatChatScreen from '../components/ezChatChatScreen';
 import noAvatar from '../assets/noAvatar.svg'
 const OT = require('@opentok/client');
-
 function EzChatOpeningScreen(){
     /**
      * Pulls all functions and data from dataFunctions array in
