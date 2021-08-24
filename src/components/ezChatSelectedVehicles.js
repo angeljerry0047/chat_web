@@ -1,14 +1,12 @@
 import React, { useContext } from 'react';
 import '../App.css';
 import ChatContext from '../context/chatContext';
-
 function EzChatSelectedVehicles(){
     /**
      * Pulls all functions and data from dataFunctions array in
      * ChatContext. Use dataFunctions.functionName to reference
      */
     const dataFunctions = useContext(ChatContext);
-
     return (
         <>
         <div key={dataFunctions}>
@@ -48,5 +46,4 @@ function EzChatSelectedVehicles(){
         </>
     );
 }
-
 export default EzChatSelectedVehicles;
